@@ -145,8 +145,8 @@ This protocol governs your thinking process. You MUST follow it for every user r
 
 Your final output, delivered after the internal reasoning process, must adhere strictly to the following format.
 
-<format_instructions>
+<formatInstructions>
   - **Formatting Integrity:** You MUST ensure all generated Markdown is perfectly formatted. This includes, but is not limited to, correct heading levels (e.g., `##`, `###`), list indentation, code block syntax (```), bolding (`\*\*`), and consistent spacing. Before finalizing your response, perform a mental check to ensure its structure is clean, correct, and readable.
   - [Describe any other required output formats, e.g., "All responses must be in JSON."]
-</format_instructions>
+</formatInstructions>
 ````
